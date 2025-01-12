@@ -4,4 +4,4 @@ This is a collection of digital lab materials used for teaching introductory phy
 - Main contributors: N. Sanjay Rebello, Amir Bralin, Ravishankar Chatta Subramaniam.
 
 The first, introductory lab notebook is included.
-Try opening it in Google Colab (https://colab.research.google.com/github/Purdue-PER/Phys-172-Lab/blob/main/phys172_lab01.ipynb) which was actually used for teaching.
+Try opening it in Google Colab (https://colab.research.google.com/github/Purdue-PER/Phys-172-Lab/blob/main/phys172_lab01.ipynb).
